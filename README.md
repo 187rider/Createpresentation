@@ -1,7 +1,7 @@
 
   # Create Presentation
 
-  This is a code bundle for Create Presentation. The original project is available at https://www.figma.com/design/ZL3TWN2bWyeR4S2kJYtaEi/Create-Presentation.
+  This is a code bundle for Create Presentation.
 
   ## Running the code
 
